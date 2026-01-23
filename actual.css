@@ -164,6 +164,12 @@
 --color-errorTextMenu: #FF9B9B;
 --color-errorBorder: #E12D39;
 --color-upcomingBorder: #8719E0;
+  /* 147d64 */
+--color-numberPositive: #147d64;
+--color-budgetNumberNeutral: #272630; /* pageText; */
+--color-budgetNumberPositive: #272630; /* budgetNumberNeutral; */
+--color-templateNumberFunded: #147d64; /* numberPositive; */
+  
 
 --color-formLabelText: #1980D4;
 --color-formLabelBackground: #8BCAFD;
