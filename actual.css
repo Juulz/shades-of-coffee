@@ -1,8 +1,5 @@
 :root {
 
---color-sidebarHeaderText: var(--color-sidebarBudgetName);
---color-sidebarBrand: var(--color-sidebarBudgetName);  
-  
 --color-pageBackground: #e2d8cf;
 --color-pageBackgroundModalActive: #bcccdc;
 --color-pageBackgroundTopLeft: #e8ecf0;
@@ -245,4 +242,6 @@
   
 --color-overlayBackground: rgba(0, 0, 0, 0.3);
 
+--color-sidebarHeaderText: var(--color-sidebarBudgetName);
+--color-sidebarBrand: var(--color-sidebarBudgetName);    
 }
