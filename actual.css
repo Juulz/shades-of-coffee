@@ -1,4 +1,7 @@
 :root {
+
+--color-sidebarHeaderText: var(--color-sidebarBudgetName);
+--color-sidebarBrand: var(--color-sidebarBudgetName);  
   
 --color-pageBackground: #e2d8cf;
 --color-pageBackgroundModalActive: #bcccdc;
